@@ -1,0 +1,17 @@
+[user]
+	email = chbradsh@cisco.com
+	name = Christopher Bradshaw
+[push]
+	default = simple
+[alias]
+    graph = log --graph --decorate --pretty=oneline --abbrev-commit
+[credential]
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[core]
+	excludesfile = /users/chbradsh/.gitignore_global
+[credential]
+	helper = /usr/cisco/packages/acme/current/adm/git-credential-ark

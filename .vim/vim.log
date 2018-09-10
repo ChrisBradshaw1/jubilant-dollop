@@ -1,0 +1,62 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.009  000.009: --- VIM STARTING ---
+001.806  001.797: Allocated generic buffers
+013.502  011.696: locale set
+013.544  000.042: GUI prepared
+013.549  000.005: clipboard setup
+013.565  000.016: window checked
+021.243  007.678: inits 1
+021.265  000.022: parsing arguments
+021.267  000.002: expanding arguments
+021.300  000.033: shell init
+022.241  000.941: Termcap init
+022.323  000.082: inits 2
+022.581  000.258: init highlight
+1270.082  000.645  000.645: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/syncolor.vim
+1270.457  158.343  157.698: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/synload.vim
+1443.646  015.607  015.607: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/filetype.vim
+1443.722  487.969  314.019: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/syntax.vim
+1599.542  000.074  000.074: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/filetype.vim
+1758.037  000.155  000.155: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/indent.vim
+2071.000  000.545  000.545: sourcing /auto/usrcisco-linux-rhel5.0-x86-32/packages/vim/vim-7.3/share/vim/vim73/syntax/nosyntax.vim
+2381.924  000.542  000.542: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/syncolor.vim
+2382.263  156.101  155.559: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/synload.vim
+2382.381  468.951  312.305: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/syntax.vim
+2538.596  000.517  000.517: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/syncolor.vim
+2695.011  000.548  000.548: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/syncolor.vim
+3785.295  000.529  000.529: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/syncolor.vim
+3941.508  000.546  000.546: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/syntax/syncolor.vim
+3947.071  319.533  318.458: sourcing /users/chbradsh/.vim/colors/solarized.vim
+3947.106  3148.026  1872.279: sourcing $HOME/.vimrc
+3947.115  776.508: sourcing vimrc file(s)
+5962.487  001.215  001.215: sourcing /users/chbradsh/.vim/plugin/cscope_maps.vim
+6430.251  003.904  003.904: sourcing /users/chbradsh/.vim/plugin/xr.vim
+6609.673  000.340  000.340: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/getscriptPlugin.vim
+6768.486  000.749  000.749: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/gzip.vim
+6924.464  000.582  000.582: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/matchparen.vim
+7081.735  001.956  001.956: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/netrwPlugin.vim
+7237.679  000.169  000.169: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/rrhelper.vim
+7394.935  000.157  000.157: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/spellfile.vim
+7553.312  000.693  000.693: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/tarPlugin.vim
+7709.564  000.213  000.213: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/tohtml.vim
+7866.622  000.527  000.527: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/vimballPlugin.vim
+8021.844  000.616  000.616: sourcing /usr/cisco/packages/vim/vim-7.3/share/vim/vim73/plugin/zipPlugin.vim
+8022.011  4064.775: loading plugins
+8022.069  000.058: inits 3
+8487.537  465.468: reading viminfo
+8487.983  000.446: setup clipboard
+8488.007  000.024: setting raw mode
+8488.061  000.054: start termcap
+8488.199  000.138: clearing screen
+8492.460  004.261: opening buffers
+8492.613  000.153: BufEnter autocommands
+8492.618  000.005: editing files in windows
+8492.906  000.288: VimEnter autocommands
+8492.913  000.007: before starting main loop
+8505.756  012.843: first screen update
+8505.761  000.005: --- VIM STARTED ---
